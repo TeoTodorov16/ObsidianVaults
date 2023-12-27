@@ -38,7 +38,7 @@ For example you can create a phonebook dictionary where you store your friends n
 In the example above I specify a datatype using the column and then I say this is going to be a collection type (putting the [  ] ) and the key to the first item is going to be <mark class="hltr-red">String</mark> data type and the second item is going to be <mark class="hltr-orange">Integer</mark> data type.
 
 I can stuff as many of these key-value pairs into my dictionary as I want as long as I stick to the datatype specified by me.
-
+		  ``§cxvbnm14567890-
 ______________________________________________________
 Now how to call out a specific data from the Dictionary?
 Or how to retrieve rive an item out of my dictionary?
@@ -55,5 +55,5 @@ Retrieving from the Dictionary
 
 Which will give me a value of <mark class="hltr-yellow">812331248</mark>
 
-                
+                 
   
