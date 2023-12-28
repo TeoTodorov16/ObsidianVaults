@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Switch Statements.md",
+                "file": "Swift Dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Switch Statements.md",
+                "file": "Swift Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Switch Statements.md",
+                "file": "Swift Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Switch Statements.md"
+                "file": "Swift Dictionary.md"
               }
             }
           },
@@ -179,23 +179,23 @@
   },
   "active": "a00f46faeb01f3cd",
   "lastOpenFiles": [
+    "Rendering Buttons under a single IBAction.md",
+    "Screenshots/Screenshot 2023-12-12 at 17.33.34.png",
+    "Read me.md",
+    "If - Else Control Flow.md",
+    "Function with Input.md",
+    "Switch Statements.md",
     "Swift Dictionary.md",
-    "Screenshot 2023-12-12 at 17.33.34.png",
     "Switch Statements Exercise.md",
     "Screenshots/Screenshot 2023-12-12 at 17.23.38.png",
     "Screenshots/Screenshot 2023-12-07 at 17.01.26.png",
     "Screenshots/Screenshot 2023-12-12 at 17.09.12.png",
-    "Switch Statements.md",
     "Screenshots/D393A38D-A36F-45FC-9188-6607667851FD_4_5005_c.jpeg",
     "Screenshots/Screenshot 2023-12-07 at 16.35.29.png",
     "Screenshot 2023-12-07 at 16.35.01.png",
     "Untitled 1.canvas",
     "Conditional Statements.md",
-    "If - Else Control Flow.md",
-    "Rendering Buttons under a single IBAction.md",
-    "Function with Input.md",
     "Creating a Variable.md",
-    "Read me.md",
     "Folder01/Untitled.canvas",
     "Screenshots/IMG_2025.jpeg",
     "Folder01",
