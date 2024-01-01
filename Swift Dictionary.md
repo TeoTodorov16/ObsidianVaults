@@ -42,7 +42,7 @@ I can stuff as many of these key-value pairs into my dictionary as I want as lon
 ______________________________________________________
 Now how to call out a specific data from the Dictionary?
 Or how to retrieve rive an item out of my dictionary?
-
+	
 Answer:
 
 For our Example ->
@@ -55,4 +55,4 @@ Retrieving from the Dictionary
 
 Which will give me a value of <mark class="hltr-yellow">812331248</mark>
 
-  
+   
