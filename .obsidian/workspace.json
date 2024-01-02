@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swift Dictionary.md",
+                "file": "Push iOS Project to GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swift Dictionary.md",
+                "file": "Push iOS Project to GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Swift Dictionary.md",
+                "file": "Push iOS Project to GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swift Dictionary.md"
+                "file": "Push iOS Project to GitHub.md"
               }
             }
           },
@@ -179,21 +179,24 @@
   },
   "active": "a00f46faeb01f3cd",
   "lastOpenFiles": [
-    "Switch Statements.md",
     "Swift Dictionary.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Switch Statements Exercise.md",
+    "Push iOS Project to GitHub.md",
+    "Switch Statements.md",
     "Rendering Buttons under a single IBAction.md",
     "Screenshots/Screenshot 2023-12-12 at 17.33.34.png",
     "Read me.md",
     "If - Else Control Flow.md",
     "Function with Input.md",
-    "Switch Statements Exercise.md",
     "Screenshots/Screenshot 2023-12-12 at 17.23.38.png",
     "Screenshots/Screenshot 2023-12-07 at 17.01.26.png",
     "Screenshots/Screenshot 2023-12-12 at 17.09.12.png",
     "Screenshots/D393A38D-A36F-45FC-9188-6607667851FD_4_5005_c.jpeg",
     "Screenshots/Screenshot 2023-12-07 at 16.35.29.png",
     "Screenshot 2023-12-07 at 16.35.01.png",
-    "Untitled 1.canvas",
     "Conditional Statements.md",
     "Creating a Variable.md",
     "Folder01/Untitled.canvas",
