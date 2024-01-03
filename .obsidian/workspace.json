@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95f9552a2771a0af",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Screenshots/Screenshot 2024-01-03 at 16.25.07.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push iOS Project to GitHub.md",
+                "file": "Screenshots/Screenshot 2024-01-03 at 16.25.07.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push iOS Project to GitHub.md",
+                "file": "Screenshots/Screenshot 2024-01-03 at 16.25.07.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push iOS Project to GitHub.md"
+                "file": "Screenshots/Screenshot 2024-01-03 at 16.25.07.png"
               }
             }
           },
@@ -177,33 +187,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a00f46faeb01f3cd",
+  "active": "cea024ed11efd317",
   "lastOpenFiles": [
+    "Creating a Structure.md",
+    "Screenshots/Screenshot 2024-01-03 at 16.25.07.png",
+    "Screenshots/Screenshot 2024-01-03 at 16.22.17.png",
+    "Screenshots/Screenshot 2024-01-03 at 16.16.14.png",
+    "Screenshots/Screenshot 2024-01-03 at 15.58.00.png",
+    "Screenshots/Screenshot 2024-01-03 at 15.44.34.png",
+    "Screenshots/Screenshot 2024-01-03 at 15.36.04.png",
+    "Screenshots/Screenshot 2024-01-03 at 15.34.57.png",
+    "Screenshots/Screenshot 2024-01-03 at 15.34.30.png",
+    "Screenshots/Screenshot 2024-01-03 at 15.29.33.png",
+    "Push iOS Project to GitHub.md",
     "Swift Dictionary.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Switch Statements Exercise.md",
-    "Push iOS Project to GitHub.md",
     "Switch Statements.md",
     "Rendering Buttons under a single IBAction.md",
     "Screenshots/Screenshot 2023-12-12 at 17.33.34.png",
     "Read me.md",
     "If - Else Control Flow.md",
     "Function with Input.md",
-    "Screenshots/Screenshot 2023-12-12 at 17.23.38.png",
-    "Screenshots/Screenshot 2023-12-07 at 17.01.26.png",
-    "Screenshots/Screenshot 2023-12-12 at 17.09.12.png",
-    "Screenshots/D393A38D-A36F-45FC-9188-6607667851FD_4_5005_c.jpeg",
-    "Screenshots/Screenshot 2023-12-07 at 16.35.29.png",
-    "Screenshot 2023-12-07 at 16.35.01.png",
     "Conditional Statements.md",
     "Creating a Variable.md",
     "Folder01/Untitled.canvas",
-    "Screenshots/IMG_2025.jpeg",
     "Folder01",
-    "Screenshots/Screenshot 2023-12-07 at 16.12.15.png",
-    "Screenshots/Screenshot 2023-12-07 at 16.06.14.png",
     "2023-11-19.md",
     "Screenshot 2023-11-19 at 22.04.36.png.md",
     "2023-10-03.md",
