@@ -168,5 +168,12 @@ Hit Enter
 Now using Tab you can move between those.
 
 Now I need to <mark class="hltr-red">provide some values to these positions</mark> 
-We else see what type of data I need to provide.
+We also see what type of data I need to provide.
+
+here I made two =>
+
+![[Screenshot 2024-01-03 at 19.38.34.png]]
+
+
+and all using the <mark class="hltr-blue">BluePrint</mark> <mark class="hltr-red">structure</mark> <mark class="hltr-blue">Town</mark>
 

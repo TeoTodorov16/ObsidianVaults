@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the Self keyword in Swift.md",
+                "file": "Creating a Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the Self keyword in Swift.md",
+                "file": "Creating a Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the Self keyword in Swift.md",
+                "file": "Creating a Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the Self keyword in Swift.md"
+                "file": "Creating a Structure.md"
               }
             }
           },
@@ -179,32 +179,31 @@
   },
   "active": "f00b5d2d2f1d9356",
   "lastOpenFiles": [
-    "Screenshot 2024-01-03 at 19.36.00.png",
-    "Screenshot 2024-01-03 at 19.23.54.png",
-    "Screenshot 2024-01-03 at 19.22.28.png",
-    "Screenshot 2024-01-03 at 19.12.40.png",
-    "Creating a Structure.md",
-    "the Self keyword in Swift.md",
-    "If - Else Control Flow.md",
     "Function with Input.md",
-    "Creating a Variable.md",
-    "Conditional Statements.md",
+    "If - Else Control Flow.md",
     "Push iOS Project to GitHub.md",
+    "Rendering Buttons under a single IBAction.md",
     "Read me.md",
+    "Creating a Structure.md",
+    "Creating a Variable.md",
+    "the Self keyword in Swift.md",
+    "Conditional Statements.md",
     "Swift Dictionary.md",
-    "Switch Statements.md",
     "Switch Statements Exercise.md",
-    "Screenshot 2024-01-03 at 17.32.27.png",
-    "Screenshot 2024-01-03 at 19.02.28.png",
-    "Screenshot 2024-01-03 at 19.00.54.png",
-    "Screenshot 2024-01-03 at 18.57.05.png",
-    "Screenshot 2024-01-03 at 18.54.04.png",
-    "Screenshot 2024-01-03 at 18.51.26.png",
-    "Screenshot 2024-01-03 at 18.46.09.png",
+    "Switch Statements.md",
+    "Screenshots/Screenshot 2024-01-03 at 19.38.34.png",
+    "Screenshots/Screenshot 2024-01-03 at 19.36.00.png",
+    "Screenshots/Screenshot 2024-01-03 at 17.32.27.png",
+    "Screenshots/Screenshot 2024-01-03 at 19.23.54.png",
+    "Screenshots/Screenshot 2024-01-03 at 19.22.28.png",
+    "Screenshots/Screenshot 2024-01-03 at 19.12.40.png",
+    "Screenshots/Screenshot 2024-01-03 at 19.02.28.png",
+    "Screenshots/Screenshot 2024-01-03 at 19.00.54.png",
+    "Screenshots/Screenshot 2024-01-03 at 18.57.05.png",
+    "Screenshots/Screenshot 2024-01-03 at 18.54.04.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
-    "Rendering Buttons under a single IBAction.md",
     "Folder01/Untitled.canvas",
     "Folder01",
     "2023-11-19.md",
