@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1cb143704d83dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creating a Structure.md",
+                "file": "Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creating a Structure.md",
+                "file": "Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creating a Structure.md"
+                "file": "Design Patterns.md"
               }
             }
           },
@@ -177,14 +189,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f00b5d2d2f1d9356",
+  "active": "c1cb143704d83dd1",
   "lastOpenFiles": [
+    "Screenshot 2024-01-04 at 15.04.56.png",
+    "Creating a Structure.md",
+    "Design Patterns.md",
     "Function with Input.md",
     "If - Else Control Flow.md",
     "Push iOS Project to GitHub.md",
     "Rendering Buttons under a single IBAction.md",
     "Read me.md",
-    "Creating a Structure.md",
     "Creating a Variable.md",
     "the Self keyword in Swift.md",
     "Conditional Statements.md",
