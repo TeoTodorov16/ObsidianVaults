@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ab7969d91f178bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immutability in Swift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Immutability in Swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Immutability in Swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns.md"
+                "file": "Immutability in Swift.md"
               }
             }
           },
@@ -213,11 +225,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cea024ed11efd317",
+  "active": "5ab7969d91f178bb",
   "lastOpenFiles": [
+    "Design Patterns.md",
+    "Immutability in Swift.md",
     "Functions with Input.md",
     "Functions with Outputs & Return Types.md",
-    "Design Patterns.md",
     "If - Else Control Flow.md",
     "Push iOS Project to GitHub.md",
     "Screenshots/C4C9D1D2-56F7-46DE-9EAE-ED6857F2C34D_4_5005_c.jpeg",
