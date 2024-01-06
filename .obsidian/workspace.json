@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions with Outputs & Return Types.md",
+                "file": "Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions with Outputs & Return Types.md",
+                "file": "Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions with Outputs & Return Types.md",
+                "file": "Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions with Outputs & Return Types.md"
+                "file": "Design Patterns.md"
               }
             }
           },
@@ -213,16 +213,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5687ad0fbd348b1",
+  "active": "cea024ed11efd317",
   "lastOpenFiles": [
+    "Functions with Input.md",
+    "Functions with Outputs & Return Types.md",
     "Design Patterns.md",
     "If - Else Control Flow.md",
-    "Functions with Outputs & Return Types.md",
     "Push iOS Project to GitHub.md",
     "Screenshots/C4C9D1D2-56F7-46DE-9EAE-ED6857F2C34D_4_5005_c.jpeg",
     "Conditional Statements.md",
     "Screenshots/Screenshot 2024-01-05 at 22.07.43.png",
-    "Functions with Input.md",
     "Screenshot 2024-01-04 at 15.04.56.png",
     "Creating a Structure.md",
     "Rendering Buttons under a single IBAction.md",
