@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Creating a Variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80e278e99d4b270d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Changing text of button (code) in Swift.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Changing text of button (code) in Swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Changing text of button (code) in Swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns.md"
+                "file": "Changing text of button (code) in Swift.md"
               }
             }
           },
@@ -213,30 +225,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5687ad0fbd348b1",
+  "active": "80e278e99d4b270d",
   "lastOpenFiles": [
-    "Pasted image 20240107200055.png",
-    "Pasted image 20240107195942.png",
-    "Pasted image 20240107195513.png",
-    "Pasted image 20240107194512.png",
-    "Pasted image 20240107194410.png",
-    "Pasted image 20240107193803.png",
-    "Pasted image 20240107193702.png",
+    "Creating a Variable.md",
+    "Changing text of button (code) in Swift.md",
+    "Design Patterns.md",
+    "Functions with Input.md",
+    "Screenshots/Pasted image 20240107200055.png",
+    "Screenshots/Pasted image 20240107195942.png",
+    "Screenshots/Pasted image 20240107195513.png",
+    "Screenshots/Pasted image 20240107194512.png",
+    "Screenshots/Pasted image 20240107194410.png",
+    "Screenshots/Pasted image 20240107193803.png",
+    "Screenshots/Pasted image 20240107193702.png",
     "Screenshots/Screenshot 2024-01-06 at 21.30.19.png",
     "Immutability in Swift.md",
     "Screenshots/Screenshot 2024-01-06 at 21.29.54.png",
     "Screenshots/Screenshot 2024-01-06 at 21.29.16.png",
-    "Design Patterns.md",
-    "Functions with Input.md",
     "Functions with Outputs & Return Types.md",
     "If - Else Control Flow.md",
     "Push iOS Project to GitHub.md",
-    "Screenshots/C4C9D1D2-56F7-46DE-9EAE-ED6857F2C34D_4_5005_c.jpeg",
     "Conditional Statements.md",
     "Creating a Structure.md",
     "Rendering Buttons under a single IBAction.md",
     "Read me.md",
-    "Creating a Variable.md",
     "the Self keyword in Swift.md",
     "Swift Dictionary.md",
     "Switch Statements Exercise.md",
