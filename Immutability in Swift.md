@@ -18,4 +18,17 @@ If you created Michelangelo David and you decided it should have a larger nose, 
 
 In summary, immutability in Swift means once you set a value using `let`, you can't change it. This can lead to safer and more predictable code.
 
+Example:
+
+<mark class="hltr-red">Error</mark>
+
+![[Screenshot 2024-01-06 at 21.29.54.png]]
+
+
+Fixing the <mark class="hltr-red">Error</mark>
+
+![[Screenshot 2024-01-06 at 21.30.19.png]]
+
+
+The fix is to add <mark class="hltr-red">mutating</mark> keyword in front of the function which is trying to change a self property inside of the structure 
 

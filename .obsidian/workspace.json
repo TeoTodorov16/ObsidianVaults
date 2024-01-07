@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ab7969d91f178bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immutability in Swift.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immutability in Swift.md",
+                "file": "Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immutability in Swift.md",
+                "file": "Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Immutability in Swift.md"
+                "file": "Design Patterns.md"
               }
             }
           },
@@ -225,18 +213,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ab7969d91f178bb",
+  "active": "b5687ad0fbd348b1",
   "lastOpenFiles": [
-    "Design Patterns.md",
+    "Pasted image 20240107200055.png",
+    "Pasted image 20240107195942.png",
+    "Pasted image 20240107195513.png",
+    "Pasted image 20240107194512.png",
+    "Pasted image 20240107194410.png",
+    "Pasted image 20240107193803.png",
+    "Pasted image 20240107193702.png",
+    "Screenshots/Screenshot 2024-01-06 at 21.30.19.png",
     "Immutability in Swift.md",
+    "Screenshots/Screenshot 2024-01-06 at 21.29.54.png",
+    "Screenshots/Screenshot 2024-01-06 at 21.29.16.png",
+    "Design Patterns.md",
     "Functions with Input.md",
     "Functions with Outputs & Return Types.md",
     "If - Else Control Flow.md",
     "Push iOS Project to GitHub.md",
     "Screenshots/C4C9D1D2-56F7-46DE-9EAE-ED6857F2C34D_4_5005_c.jpeg",
     "Conditional Statements.md",
-    "Screenshots/Screenshot 2024-01-05 at 22.07.43.png",
-    "Screenshot 2024-01-04 at 15.04.56.png",
     "Creating a Structure.md",
     "Rendering Buttons under a single IBAction.md",
     "Read me.md",
@@ -245,13 +241,6 @@
     "Swift Dictionary.md",
     "Switch Statements Exercise.md",
     "Switch Statements.md",
-    "Screenshots/Screenshot 2024-01-03 at 19.38.34.png",
-    "Screenshots/Screenshot 2024-01-03 at 19.36.00.png",
-    "Screenshots/Screenshot 2024-01-03 at 17.32.27.png",
-    "Screenshots/Screenshot 2024-01-03 at 19.23.54.png",
-    "Screenshots/Screenshot 2024-01-03 at 19.22.28.png",
-    "Screenshots/Screenshot 2024-01-03 at 19.12.40.png",
-    "Screenshots/Screenshot 2024-01-03 at 19.02.28.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
