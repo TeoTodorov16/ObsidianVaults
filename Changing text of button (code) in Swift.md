@@ -12,4 +12,4 @@ Then the <mark class="hltr-purple">for: .normal</mark>  - The titles are set for
 Conclusion:
 In Swift, the `for` parameter in the `setTitle(_:for:)` method is specifying the control state for which the title should be set. The `.normal` state is the default state for many UI controls, including buttons. It represents the normal, unhighlighted state of the control.
 
-     
+      
