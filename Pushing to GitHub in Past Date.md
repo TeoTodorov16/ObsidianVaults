@@ -13,4 +13,4 @@ Make sure you have to change the date and time according to your preference. Thi
 
 Or just use the command <mark class="hltr-red">git commit --amend --no-edit --date="Sat Jun 5 20:00:00 2021 -0600</mark>" & => <mark class="hltr-red">git push --force</mark>
 
-        
+         
