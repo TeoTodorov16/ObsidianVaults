@@ -35,3 +35,4 @@ And instead, all we have to do is just pass in the value that we want to use as 
 So in this case, we still have an internal parameter name which we can use to refer to the value within the function.
 
 But when we call the method, we no longer have an external parameter name.
+ 

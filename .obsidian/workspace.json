@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swift Dictionary.md",
+                "file": "Internal and External Parameter Names.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swift Dictionary.md",
+                "file": "Internal and External Parameter Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Swift Dictionary.md",
+                "file": "Internal and External Parameter Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swift Dictionary.md"
+                "file": "Internal and External Parameter Names.md"
               }
             }
           },
@@ -168,44 +168,45 @@
   },
   "active": "a4dde13970ba4134",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "If - Else Control Flow.md",
+    "Functions with Outputs & Return Types.md",
+    "JSON.md",
+    "Networking.md",
+    "API.md",
     "Protocols & Delegates.md",
+    "Passing Results through different ViewControllers.md",
     "Optionals.md",
     "Internal and External Parameter Names.md",
-    "Pushing to GitHub in Past Date.md",
-    "Push iOS Project to GitHub.md",
-    "Passing Results through different ViewControllers.md",
-    "Creating a Structure.md",
-    "Untitled 2.canvas",
-    "2024-03-07.md",
-    "Untitled 1.canvas",
-    "Read me.md",
     "Immutability in Swift.md",
-    "Screenshots/Screenshot 2024-02-06 at 15.10.51.png",
-    "Networking.md",
-    "Screenshots/Screenshot 2024-02-24 at 0.27.48 1 1.png",
-    "Classes.md",
-    "Screenshots/Screenshot 2024-02-24 at 0.31.39 1 1.png",
-    "Changing text of button (code) in Swift.md",
-    "Background Image.md",
     "Creating a Variable.md",
+    "Swift Dictionary.md",
+    "Switch Statements.md",
+    "Switch Statements Exercise.md",
+    "the Self keyword in Swift.md",
+    "Background Image.md",
+    "Changing text of button (code) in Swift.md",
+    "Creating a Structure.md",
+    "Functions with Input.md",
+    "Extensions.md",
+    "Push iOS Project to GitHub.md",
+    "Pushing to GitHub in Past Date.md",
+    "Read me.md",
+    "Rendering Buttons under a single IBAction.md",
+    "Rounding number to 2 decimal places Swift.md",
+    "Stepper update button.md",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Screenshots/Screenshot 2024-02-06 at 15.10.51.png",
+    "Screenshots/Screenshot 2024-02-24 at 0.27.48 1 1.png",
+    "Screenshots/Screenshot 2024-02-24 at 0.31.39 1 1.png",
     "Screenshots/Screenshot 2024-02-24 at 0.29.44 1 1.png",
     "Screenshots/Screenshot 2024-02-24 at 0.28.34 1 1.png",
     "Screenshots/Screenshot 2024-02-24 at 0.28.22 1 1.png",
-    "Closures.md",
-    "Design Patterns.md",
-    "JSON.md",
-    "Rendering Buttons under a single IBAction.md",
-    "Rounding number to 2 decimal places Swift.md",
-    "Untitled.md",
     "Screenshots/Screenshot 2024-02-16 at 23.40.24.png",
-    "{.map} method.md",
-    "Extensions.md",
     "Screenshots/Screenshot 2024-02-21 at 12.07.35.png",
     "Screenshots/Screenshot 2024-02-16 at 23.45.27.png",
     "Screenshots/Screenshot 2024-02-16 at 23.44.26.png",
-    "Switch Statements.md",
-    "Swift Dictionary.md",
     "Untitled",
     "31D1D02A-B37A-4734-937B-9C9976166561_1_201_a.heic",
     "144C7BF6-3203-4E52-A570-8140264D0626.heic",
