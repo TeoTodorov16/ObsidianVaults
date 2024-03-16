@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal and External Parameter Names.md",
+                "file": "Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internal and External Parameter Names.md",
+                "file": "Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internal and External Parameter Names.md",
+                "file": "Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internal and External Parameter Names.md"
+                "file": "Design Patterns.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "a4dde13970ba4134",
   "lastOpenFiles": [
+    "Internal and External Parameter Names.md",
     "If - Else Control Flow.md",
     "Functions with Outputs & Return Types.md",
     "JSON.md",
@@ -176,7 +177,6 @@
     "Protocols & Delegates.md",
     "Passing Results through different ViewControllers.md",
     "Optionals.md",
-    "Internal and External Parameter Names.md",
     "Immutability in Swift.md",
     "Creating a Variable.md",
     "Swift Dictionary.md",
