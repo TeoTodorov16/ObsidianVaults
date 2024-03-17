@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Creating a Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Creating a Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Creating a Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns.md"
+                "file": "Creating a Structure.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "a4dde13970ba4134",
   "lastOpenFiles": [
+    "Creating a Variable.md",
+    "Design Patterns.md",
     "Internal and External Parameter Names.md",
     "If - Else Control Flow.md",
     "Functions with Outputs & Return Types.md",
@@ -178,7 +180,6 @@
     "Passing Results through different ViewControllers.md",
     "Optionals.md",
     "Immutability in Swift.md",
-    "Creating a Variable.md",
     "Swift Dictionary.md",
     "Switch Statements.md",
     "Switch Statements Exercise.md",
@@ -193,7 +194,6 @@
     "Read me.md",
     "Rendering Buttons under a single IBAction.md",
     "Rounding number to 2 decimal places Swift.md",
-    "Stepper update button.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
