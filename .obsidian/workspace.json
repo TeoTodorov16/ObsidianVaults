@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating a Structure.md",
+                "file": "Functions with Input.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creating a Structure.md",
+                "file": "Functions with Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creating a Structure.md",
+                "file": "Functions with Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creating a Structure.md"
+                "file": "Functions with Input.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "a4dde13970ba4134",
   "lastOpenFiles": [
+    "Creating a Structure.md",
     "Creating a Variable.md",
     "Design Patterns.md",
     "Internal and External Parameter Names.md",
@@ -186,7 +187,6 @@
     "the Self keyword in Swift.md",
     "Background Image.md",
     "Changing text of button (code) in Swift.md",
-    "Creating a Structure.md",
     "Functions with Input.md",
     "Extensions.md",
     "Push iOS Project to GitHub.md",
