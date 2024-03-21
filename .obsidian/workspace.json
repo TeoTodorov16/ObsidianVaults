@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions with Input.md",
+                "file": "Protocols & Delegates.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "delegate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions with Input.md",
+                "file": "Protocols & Delegates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions with Input.md",
+                "file": "Protocols & Delegates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions with Input.md"
+                "file": "Protocols & Delegates.md"
               }
             }
           },
@@ -168,6 +169,7 @@
   },
   "active": "a4dde13970ba4134",
   "lastOpenFiles": [
+    "Functions with Input.md",
     "Creating a Structure.md",
     "Creating a Variable.md",
     "Design Patterns.md",
@@ -187,7 +189,6 @@
     "the Self keyword in Swift.md",
     "Background Image.md",
     "Changing text of button (code) in Swift.md",
-    "Functions with Input.md",
     "Extensions.md",
     "Push iOS Project to GitHub.md",
     "Pushing to GitHub in Past Date.md",
