@@ -13,4 +13,4 @@ SubClass -> Protocol
 [Subclass becomes the Delegate and in order to be one you need the Protocol as DataType]
 -> Must perform whatever method is in the Protocol in the SubClass
 +set the superclass as the delegate(to inform that the superclass is the original delegate) = weatherManager.delegate = self
-  
+   
