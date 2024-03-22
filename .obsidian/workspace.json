@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols & Delegates.md",
+                "file": "Passing Results through different ViewControllers.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols & Delegates.md",
+                "file": "Passing Results through different ViewControllers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols & Delegates.md",
+                "file": "Passing Results through different ViewControllers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols & Delegates.md"
+                "file": "Passing Results through different ViewControllers.md"
               }
             }
           },
@@ -169,6 +168,7 @@
   },
   "active": "a4dde13970ba4134",
   "lastOpenFiles": [
+    "Protocols & Delegates.md",
     "Functions with Input.md",
     "Creating a Structure.md",
     "Creating a Variable.md",
@@ -179,7 +179,6 @@
     "JSON.md",
     "Networking.md",
     "API.md",
-    "Protocols & Delegates.md",
     "Passing Results through different ViewControllers.md",
     "Optionals.md",
     "Immutability in Swift.md",
