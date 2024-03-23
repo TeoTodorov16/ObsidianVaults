@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passing Results through different ViewControllers.md",
+                "file": "Immutability in Swift.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passing Results through different ViewControllers.md",
+                "file": "Immutability in Swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passing Results through different ViewControllers.md",
+                "file": "Immutability in Swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passing Results through different ViewControllers.md"
+                "file": "Immutability in Swift.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "a4dde13970ba4134",
   "lastOpenFiles": [
     "Protocols & Delegates.md",
+    "Passing Results through different ViewControllers.md",
     "Functions with Input.md",
     "Creating a Structure.md",
     "Creating a Variable.md",
@@ -179,7 +180,6 @@
     "JSON.md",
     "Networking.md",
     "API.md",
-    "Passing Results through different ViewControllers.md",
     "Optionals.md",
     "Immutability in Swift.md",
     "Swift Dictionary.md",
