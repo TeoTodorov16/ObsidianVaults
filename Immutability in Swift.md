@@ -31,4 +31,4 @@ Fixing the <mark class="hltr-red">Error</mark>
 
 
 The fix is to add <mark class="hltr-red">mutating</mark> keyword in front of the function which is trying to change a self property inside of the structure 
-              
+               
