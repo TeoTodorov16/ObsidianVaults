@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immutability in Swift.md",
+                "file": "Switch Statements Exercise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immutability in Swift.md",
+                "file": "Switch Statements Exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immutability in Swift.md",
+                "file": "Switch Statements Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Immutability in Swift.md"
+                "file": "Switch Statements Exercise.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "a4dde13970ba4134",
   "lastOpenFiles": [
+    "Immutability in Swift.md",
     "Protocols & Delegates.md",
     "Passing Results through different ViewControllers.md",
     "Functions with Input.md",
@@ -181,7 +182,6 @@
     "Networking.md",
     "API.md",
     "Optionals.md",
-    "Immutability in Swift.md",
     "Swift Dictionary.md",
     "Switch Statements.md",
     "Switch Statements Exercise.md",
