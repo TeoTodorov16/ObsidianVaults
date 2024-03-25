@@ -1,4 +1,4 @@
-1. Step - Create a “Present Modally” segue between two ViewControllers 
+ 1. Step - Create a “Present Modally” segue between two ViewControllers 
    
    ![[Screenshot 2024-01-20 at 22.15.47.png]]
 
@@ -37,3 +37,4 @@ And the performSegue command which is the key for the transition to happen =>
 
 5. ![[Screenshot 2024-01-20 at 22.44.28.png]]
 
+ 
