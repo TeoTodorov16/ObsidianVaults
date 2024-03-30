@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passing Results through different ViewControllers.md",
+                "file": "Internal and External Parameter Names.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passing Results through different ViewControllers.md",
+                "file": "Internal and External Parameter Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passing Results through different ViewControllers.md",
+                "file": "Internal and External Parameter Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passing Results through different ViewControllers.md"
+                "file": "Internal and External Parameter Names.md"
               }
             }
           },
@@ -168,17 +168,17 @@
   },
   "active": "a4dde13970ba4134",
   "lastOpenFiles": [
-    "Switch Statements Exercise.md",
     "Immutability in Swift.md",
-    "Protocols & Delegates.md",
-    "Passing Results through different ViewControllers.md",
+    "Functions with Outputs & Return Types.md",
     "Functions with Input.md",
+    "Design Patterns.md",
+    "Passing Results through different ViewControllers.md",
+    "Switch Statements Exercise.md",
+    "Protocols & Delegates.md",
     "Creating a Structure.md",
     "Creating a Variable.md",
-    "Design Patterns.md",
     "Internal and External Parameter Names.md",
     "If - Else Control Flow.md",
-    "Functions with Outputs & Return Types.md",
     "JSON.md",
     "Networking.md",
     "API.md",

@@ -2,4 +2,3 @@
 
 
 This type of function is giving us option of Output not only Input.
-
