@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal and External Parameter Names.md",
+                "file": "If - Else Control Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e65cfbe9b2d18ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internal and External Parameter Names.md",
+                "file": "Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internal and External Parameter Names.md",
+                "file": "Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internal and External Parameter Names.md"
+                "file": "Design Patterns.md"
               }
             }
           },
@@ -166,12 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4dde13970ba4134",
+  "active": "e65cfbe9b2d18ac4",
   "lastOpenFiles": [
-    "Networking.md",
-    "Internal and External Parameter Names.md",
-    "Immutability in Swift.md",
+    "Conditional Statements.md",
+    "Extensions.md",
     "Functions with Outputs & Return Types.md",
+    "Internal and External Parameter Names.md",
+    "Networking.md",
+    "Immutability in Swift.md",
     "Functions with Input.md",
     "Design Patterns.md",
     "Passing Results through different ViewControllers.md",
@@ -188,12 +203,10 @@
     "the Self keyword in Swift.md",
     "Background Image.md",
     "Changing text of button (code) in Swift.md",
-    "Extensions.md",
     "Push iOS Project to GitHub.md",
     "Pushing to GitHub in Past Date.md",
     "Read me.md",
     "Rendering Buttons under a single IBAction.md",
-    "Rounding number to 2 decimal places Swift.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

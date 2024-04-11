@@ -31,7 +31,3 @@ There is another type of Statements which are useful in <mark class="hltr-grey">
 It's called <mark class="hltr-red">Switch Statements</mark>
 More about it here ==->  [[Switch Statements]]  <-==
 
-
-
-  
-
