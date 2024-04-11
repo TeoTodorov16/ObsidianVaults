@@ -76,4 +76,4 @@ But you won't need to go into the ViewController.swift file or the Main.Storyboa
 So it all makes reduce errors and be EASIER to understand especially for other programmers who know the MVC.
 
 ![[Pasted image 20240107195942.png]]
-          
+           
