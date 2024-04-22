@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Switch Statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Switch Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Switch Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns.md"
+                "file": "Switch Statements.md"
               }
             }
           },
@@ -181,33 +181,32 @@
   },
   "active": "e65cfbe9b2d18ac4",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Stepper update button.md",
+    "Rounding number to 2 decimal places Swift.md",
+    "Pushing to GitHub in Past Date.md",
+    "Push iOS Project to GitHub.md",
+    "Passing Results through different ViewControllers.md",
+    "Networking.md",
+    "JSON.md",
+    "Functions with Outputs & Return Types.md",
+    "Design Patterns.md",
     "Conditional Statements.md",
     "Extensions.md",
-    "Functions with Outputs & Return Types.md",
     "Internal and External Parameter Names.md",
-    "Networking.md",
     "Immutability in Swift.md",
     "Functions with Input.md",
-    "Design Patterns.md",
-    "Passing Results through different ViewControllers.md",
     "Switch Statements Exercise.md",
     "Protocols & Delegates.md",
     "Creating a Structure.md",
     "Creating a Variable.md",
     "If - Else Control Flow.md",
-    "JSON.md",
     "API.md",
     "Optionals.md",
     "Swift Dictionary.md",
     "Switch Statements.md",
     "the Self keyword in Swift.md",
     "Background Image.md",
-    "Changing text of button (code) in Swift.md",
-    "Push iOS Project to GitHub.md",
-    "Pushing to GitHub in Past Date.md",
-    "Read me.md",
-    "Rendering Buttons under a single IBAction.md",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Screenshots/Screenshot 2024-02-06 at 15.10.51.png",

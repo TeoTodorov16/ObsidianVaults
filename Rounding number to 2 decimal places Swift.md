@@ -14,4 +14,3 @@ So, when you execute this line of code with `sender.value` equal to `3.14159` (f
 
 In this case, the output will be the string `"3.14"` because it rounds the number to two decimal places.
 
-
