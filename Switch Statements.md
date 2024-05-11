@@ -21,4 +21,4 @@ So then the code will look like this  -->
 
 What is different is that I added one more case which include the Hardness and on the default I let catch an exception with an <mark class="hltr-red">"Error"</mark> message.
 
-          
+           
