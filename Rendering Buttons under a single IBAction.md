@@ -54,3 +54,6 @@ Output:
 ![[Screenshot 2023-10-10 at 21.05.18.png]]
 
 And this is the outcome of selecting each of the buttons individually
+
+
+

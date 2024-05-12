@@ -7,6 +7,3 @@ Then use the commands which GitHub gives you after creating a repository in the 
 
 Then follow the guide.
 
-
-
-   

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "If - Else Control Flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e65cfbe9b2d18ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Switch Statements.md",
+                "file": "Creating a Structure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "delegate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Switch Statements.md",
+                "file": "Creating a Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Switch Statements.md",
+                "file": "Creating a Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Switch Statements.md"
+                "file": "Creating a Structure.md"
               }
             }
           },
@@ -179,34 +166,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e65cfbe9b2d18ac4",
+  "active": "a4dde13970ba4134",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Stepper update button.md",
-    "Rounding number to 2 decimal places Swift.md",
     "Pushing to GitHub in Past Date.md",
     "Push iOS Project to GitHub.md",
+    "Functions with Outputs & Return Types.md",
+    "Internal and External Parameter Names.md",
+    "Design Patterns.md",
+    "Rendering Buttons under a single IBAction.md",
+    "Switch Statements.md",
+    "Untitled.canvas",
     "Passing Results through different ViewControllers.md",
+    "If - Else Control Flow.md",
+    "2024-03-07.md",
+    "2024-05-12.md",
+    "{.map} method.md",
+    "Closures.md",
+    "Changing text of button (code) in Swift.md",
+    "Background Image.md",
+    "API.md",
+    "Functions with Input.md",
+    "Stepper update button.md",
+    "Rounding number to 2 decimal places Swift.md",
     "Networking.md",
     "JSON.md",
-    "Functions with Outputs & Return Types.md",
-    "Design Patterns.md",
     "Conditional Statements.md",
     "Extensions.md",
-    "Internal and External Parameter Names.md",
     "Immutability in Swift.md",
-    "Functions with Input.md",
     "Switch Statements Exercise.md",
     "Protocols & Delegates.md",
-    "Creating a Structure.md",
-    "Creating a Variable.md",
-    "If - Else Control Flow.md",
-    "API.md",
-    "Optionals.md",
-    "Swift Dictionary.md",
-    "Switch Statements.md",
-    "the Self keyword in Swift.md",
-    "Background Image.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Screenshots/Screenshot 2024-02-06 at 15.10.51.png",
