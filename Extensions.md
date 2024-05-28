@@ -41,5 +41,5 @@ Then I set the color of the button variable constant to be red.
 Lastly I implement the method to the button since it's using the UIButton library.
 
 
-      
+	       
 
