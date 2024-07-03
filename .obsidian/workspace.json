@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating a Structure.md",
+                "file": "Immutability in Swift.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creating a Structure.md",
+                "file": "Immutability in Swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creating a Structure.md",
+                "file": "Immutability in Swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creating a Structure.md"
+                "file": "Immutability in Swift.md"
               }
             }
           },
@@ -168,33 +168,34 @@
   },
   "active": "a4dde13970ba4134",
   "lastOpenFiles": [
-    "Pushing to GitHub in Past Date.md",
-    "Push iOS Project to GitHub.md",
-    "Functions with Outputs & Return Types.md",
     "Internal and External Parameter Names.md",
+    "Optionals.md",
+    "Networking.md",
+    "JSON.md",
+    "Immutability in Swift.md",
+    "If - Else Control Flow.md",
+    "Functions with Outputs & Return Types.md",
+    "Extensions.md",
+    "Push iOS Project to GitHub.md",
+    "Functions with Input.md",
+    "API.md",
     "Design Patterns.md",
+    "Passing Results through different ViewControllers.md",
     "Rendering Buttons under a single IBAction.md",
+    "Creating a Variable.md",
+    "Creating a Structure.md",
+    "Conditional Statements.md",
+    "5 Steps Approach to Solve any Programming Problem.md",
+    "Screenshot 2024-05-15 at 15.00.30.png",
+    "Pushing to GitHub in Past Date.md",
     "Switch Statements.md",
     "Untitled.canvas",
-    "Passing Results through different ViewControllers.md",
-    "If - Else Control Flow.md",
     "2024-03-07.md",
     "2024-05-12.md",
     "{.map} method.md",
     "Closures.md",
     "Changing text of button (code) in Swift.md",
     "Background Image.md",
-    "API.md",
-    "Functions with Input.md",
-    "Stepper update button.md",
-    "Rounding number to 2 decimal places Swift.md",
-    "Networking.md",
-    "JSON.md",
-    "Conditional Statements.md",
-    "Extensions.md",
-    "Immutability in Swift.md",
-    "Switch Statements Exercise.md",
-    "Protocols & Delegates.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Screenshots/Screenshot 2024-02-06 at 15.10.51.png",
@@ -206,7 +207,6 @@
     "Screenshots/Screenshot 2024-02-16 at 23.40.24.png",
     "Screenshots/Screenshot 2024-02-21 at 12.07.35.png",
     "Screenshots/Screenshot 2024-02-16 at 23.45.27.png",
-    "Screenshots/Screenshot 2024-02-16 at 23.44.26.png",
     "Untitled",
     "31D1D02A-B37A-4734-937B-9C9976166561_1_201_a.heic",
     "144C7BF6-3203-4E52-A570-8140264D0626.heic",
