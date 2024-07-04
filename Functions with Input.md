@@ -33,3 +33,7 @@ greeting2(whoToGreet: "Teodor")
 
 ![[Screenshot 2023-09-05 at 19.18.06 1.png]]
 
+
+
+
+

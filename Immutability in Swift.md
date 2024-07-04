@@ -1,3 +1,4 @@
+
 In Swift, "immutability" refers to the concept of creating objects (like variables or data structures) that cannot be changed after they are initially set. Once an object is assigned a value, that value cannot be modified.
 
 Swift was designed that anything mocked my the let keyword is immutable.
@@ -33,4 +34,4 @@ Fixing the <mark class="hltr-red">Error</mark>
 The fix is to add <mark class="hltr-red">mutating</mark> keyword in front of the function which is trying to change a self property inside of the structure 
 
 
-	         
+

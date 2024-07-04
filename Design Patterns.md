@@ -77,4 +77,4 @@ So it all makes reduce errors and be EASIER to understand especially for other p
 
 ![[Pasted image 20240107195942.png]]
 
-
+ 

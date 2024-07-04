@@ -30,4 +30,3 @@ Now we say: If it is <mark class="hltr-green">green</mark> then <mark class="hlt
 There is another type of Statements which are useful in <mark class="hltr-grey">iOS programming</mark>.
 It's called <mark class="hltr-red">Switch Statements</mark>
 More about it here ==->  [[Switch Statements]]  <-==
-
