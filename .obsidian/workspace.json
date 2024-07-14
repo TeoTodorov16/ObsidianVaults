@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols & Delegates.md",
+                "file": "Stepper update button.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols & Delegates.md",
+                "file": "Stepper update button.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols & Delegates.md",
+                "file": "Stepper update button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols & Delegates.md"
+                "file": "Stepper update button.md"
               }
             }
           }
@@ -160,6 +160,10 @@
   },
   "active": "2a0756acf2d58452",
   "lastOpenFiles": [
+    "Rendering Buttons under a single IBAction.md",
+    "Read me.md",
+    "Pushing to GitHub in Past Date.md",
+    "Protocols & Delegates.md",
     "Functions with Input.md",
     "Creating a Variable.md",
     "Closures.md",
@@ -172,7 +176,6 @@
     "Background Image.md",
     "Optionals.md",
     "Passing Results through different ViewControllers.md",
-    "Read me.md",
     "Switch Statements Exercise.md",
     "the Self keyword in Swift.md",
     "Stepper update button.md",
@@ -188,7 +191,6 @@
     "Screenshots/Screenshot 2024-01-20 at 22.22.57.png",
     "Rounding number to 2 decimal places Swift.md",
     "Push iOS Project to GitHub.md",
-    "Protocols & Delegates.md",
     "Functions with Outputs & Return Types.md",
     "Classes.md",
     "Changing text of button (code) in Swift.md",
@@ -196,8 +198,6 @@
     "31D1D02A-B37A-4734-937B-9C9976166561_1_201_a.heic",
     "144C7BF6-3203-4E52-A570-8140264D0626.heic",
     "JSON.md",
-    "Internal and External Parameter Names.md",
-    "If - Else Control Flow.md",
-    "Networking.md"
+    "Internal and External Parameter Names.md"
   ]
 }

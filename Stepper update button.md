@@ -3,4 +3,4 @@
         Code:
         splitNumberLabel.text = String(format: "%.0f", sender.value) 
 
- 
+
